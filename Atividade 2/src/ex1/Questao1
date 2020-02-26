@@ -1,0 +1,9 @@
+
+ Questao 1: [1.0 ponto] Qual a finalidade de se fazer comentarios em codigos fontes de programas em Java?
+ 
+/*RESPOSTA*/
+
+A escrita de comentários visa a facilitação em realizar o entendimento e a manutenção do código desenvolvido, 
+além disso os comentários Javadoc apresentam as informações responsáveis por gerar o documento com as especificações do código. Por exemplo:
+@param parametro - este é um parâmetro do método.
+@author author - este é um parametro de identificação do desenvolvedor.
